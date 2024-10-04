@@ -1,0 +1,10 @@
+-IC:\SW\TDM-GCC9.2.0\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++
+-IC:\SW\TDM-GCC9.2.0\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++\x86_64-w64-mingw32
+-IC:\SW\TDM-GCC9.2.0\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++\backward
+-IC:\SW\TDM-GCC9.2.0\lib\gcc\x86_64-w64-mingw32\9.2.0\include
+-IC:\SW\TDM-GCC9.2.0\include
+-IC:\SW\TDM-GCC9.2.0\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed
+-IC:\SW\TDM-GCC9.2.0\x86_64-w64-mingw32\include
+-IV:\4-Proyectos\4--Codelite\EjemplosCodigo\Ass2_ImageFile
+-target
+x86_64-pc-windows-gnu

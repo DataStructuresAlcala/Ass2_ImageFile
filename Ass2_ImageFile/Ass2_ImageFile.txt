@@ -1,0 +1,1 @@
+Debug/peque-image-manager_RGBPixelXY.cpp.o Debug/peque-image-manager_tinyimage.cpp.o Debug/peque-image-manager_ImagenBMP.cpp.o Debug/peque-image-manager_TinyImageJM.cpp.o Debug/main.cpp.o Debug/ListRGBPixelXY.cpp.o Debug/ElemRGBPixelXY.cpp.o   
